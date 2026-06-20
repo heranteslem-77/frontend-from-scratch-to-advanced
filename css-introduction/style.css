@@ -1,0 +1,10 @@
+     body{background-image: linear-gradient(to right, yellow, green); }
+            h1{
+                color:blue;
+                font-size: 40px;
+                            }
+             p{
+                color:Brown;
+                background-color:lightgreen;
+                font-size: 20px;
+             }    

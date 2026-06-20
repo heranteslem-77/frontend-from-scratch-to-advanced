@@ -1,0 +1,20 @@
+body{background-image: linear-gradient(to left, green, blue);}
+   .card{
+justify-content: space-around;
+gap:20px;
+padding:20px;
+margin:20px;
+border: 20px solid black;
+border-radius:10px 20px;
+color:white;
+} 
+  #card{
+justify-content: space-around;
+gap:20px;
+padding:20px;
+margin:20px;
+border: 20px solid brown;
+border-radius:10px 20px;
+color:white;
+} 
+.container{display:flex;}
