@@ -1,0 +1,77 @@
+body{
+
+}
+header{
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    padding: 5px;
+}
+nav{
+display: flex;
+align-item: center;
+
+gap: 30px;
+}
+#h2{
+    border:1px solid black;
+    background-color: black;
+    color: white;
+   
+}
+.one{
+ 
+}
+#container{
+    display: flex;
+    gap: 20px;
+}
+.h2{
+
+    }
+.two{
+ display: flex;
+ gap: 20px;
+}
+.twoo{
+    display: flex;
+    gap: 300px;
+    text-size:30px
+}
+.three{
+
+}
+.group{
+    display: flex;
+    gap: 30px;
+}
+.four{
+display: flex;
+gap: 40px;
+margin-left: 330px;
+}
+.five{ 
+    display: flex;
+    gap: 40px;
+    margin-left: 330px;
+
+}
+.six{
+        display: flex;
+    gap: 20px;
+    margin-left:250px;
+}
+h3{
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#h1{
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+}
+r{display: flex;
+    gap: 30px;
+    }
+    *figcaption{
+border: 2px solid black;
+    }
