@@ -4,7 +4,7 @@ My second HTML and CSS Project
 -HTML 
 -CSS
 ##Screenshot
-!
+! <img src="./assests/Screenshot.png" >
 ## What I learned
 -Flexbox
 -Responsive Design
